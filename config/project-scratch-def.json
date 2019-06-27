@@ -1,7 +1,13 @@
 {
-    "orgName": "wade.wegner Example",
-    "edition": "Developer",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+  "orgName": "Travis CI Scratch Org",
+  "edition": "Developer",
+  "hasSampleData":"true",
+  "features": [],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "s1EncryptedStoragePref2": false,
+	  "notesReservedPref01":true
     }
+  }
 }
